@@ -12,6 +12,7 @@ namespace C.P._4
             Console.WriteLine("Copyright Victor Söderman 2018 :)");
 
             
+            Console.WriteLine("Sudden Trouble");
         }
     }
 

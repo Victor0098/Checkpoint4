@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace C.P._4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Best movies Ever!");
+
+<<<<<<< HEAD
+            Console.WriteLine("Battle of Retaliation");
+=======
+            Console.WriteLine("Sudden Trouble");
+>>>>>>> feature/movie-1
+        }
+    }
+}
